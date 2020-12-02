@@ -241,7 +241,7 @@ services:
 
 testimonial-items:
   - name: "Wenhao Su"
-    image: "assets/images/testimonial/client-1.png"
+    image: "assets/images/testimonial/client-0.png"
     designation : "Programmer"
     content : "周纪元老铁是真的行"
     
