@@ -2,18 +2,18 @@
 # General Site Settings
 
 title: yoichow
-logo: /favicon.ico
+logo: 
 author: Jiyuan Zhou
 description: 
 email: 
-phone: 
+phone: (415) 509-1577
 address: 515 Sycamore Lane, Room 309, Davis, CA, 95616
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
+# - {name: Blog, link: '/blog'}
+# - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
 #-------------------------------
@@ -51,7 +51,9 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  I'm a pre-med student who current studies Pharmaceutical Chemistry in UC Davis. 
+  As a diligent Senior college student, I maintained a full GPA of 4.0 for all four years in UC Davis and received scholarship for my hardworks.
+  I'm interested in Chemistry, Biology, and Neuro-Science.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -61,32 +63,32 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
+  - title : "Future Plan"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "I plan to go to Medical School and become a doctor. I'm specialized in Physician. My alternative Plan B is to become a research pharmacist"
     
-  - title : "Design and Develop"
+  - title : "General Education"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "I come from China, but I am also familar with Japanese and Japanese Culture (folklore etc). I love philosophy, politics and music as well. I know how to play piano."
     
-  - title : "Deliver"
+  - title : "Medical Knowledge"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "I had an internship in a large hospital located in the city center of Nanjing, China. I planned to strengthen my knowledge with more hospital internship."
 
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Yufeng Jin"
     image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+    designation : "My pal; Legue of Legend teammate"
     
-  - title : "Julias Carlie"
+  - title : "Yinhao Zhao"
     image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+    designation : "My pal; Legue of Legend teammate"
     
-  - title : "John Doe"
+  - title : "Alex Sue"
     image : "assets/images/team/member-3.png"
-    designation : "Designer"
+    designation : "My pal; Roomate"
 
 
 #-------------------------------
@@ -94,10 +96,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Medical, color: '#fdb157', value: '90%'}
+- {name: Pharmaceutical Chemistry, color: '#9473e6', value: '90%'}
+- {name: Biology, color: '#bdecf6', value: '70%'}
+- {name: Psychology, color: '#ffbcaa', value: '50%'}
 
 
 #-------------------------------
@@ -105,9 +107,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Medical Assistant Internship, icon: 'icon-1.png', date: 'July 2019 - Sep 2019', organization: 'Nanjing Drum Tower Hospital'}
+- {name: Badass Ronin, icon: 'icon-2.png', date: 'Feb 1999 - Present', organization: 'Earth'}
+- {name: Chef, icon: 'icon-3.png', date: 'Mar 2020 - Present', organization: 'University Court Apartment'}
 
 
 #-------------------------------
@@ -115,33 +117,33 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Elementary School Student, date: '2005', organization: 'Elemetary School of Nanjing Mechanics'}
+- {name: Middle School Student, date: '2011', organization: 'Nanjing Foreign Language School'}
+- {name: Pharmaceutical Chemistry, date: '2017', organization: 'Univesrity of California, Daivs'}
+- {name: Medical Doctor, date: 'FUTURE', organization: 'TO BE CONTINUED'}
 
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Hobbies
 services:
 - {
-    name: UI Design,
+    name: Art & Humanity,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Office the TV show / Music / Piano / Japanese / Japanese Culture',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Electronic Sports,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Legue of Legend / DOTA / Heroes of Storm / Diablo III / Hearthstone',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: Cooking,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Chinese Food / Japanese Food / 或者我可以下面给你吃',
     active: # Add true to select section
   }
 
@@ -151,145 +153,145 @@ services:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
-portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+# portfolio-home-items:
+#   - image : "assets/images/portfolio/item-1.png"
+#     url: "#"
     
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+#   - image : "assets/images/portfolio/item-2.png"
+#     url: "#"
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+#   - image : "assets/images/portfolio/item-3.png"
+#     url: "#"
     
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+#   - image : "assets/images/portfolio/item-4.png"
+#     url: "#"
     
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+#   - image : "assets/images/portfolio/item-5.png"
+#     url: "#"
 
 
 # Portfolio Page
-portfolio-label:
-- {
-    title : "UI/UX Design",
-    type : "design"
-  }
-- {
-    title : "BRANDING",
-    type : "branding"
-  }
-- {
-    title : "ILLUSTRATION",
-    type : "illustration"
-  }
+# portfolio-label:
+# - {
+#     title : "UI/UX Design",
+#     type : "design"
+#   }
+# - {
+#     title : "BRANDING",
+#     type : "branding"
+#   }
+# - {
+#     title : "ILLUSTRATION",
+#     type : "illustration"
+#   }
 
-portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-     - type: "design"
-     - type: "illustration"
+# portfolio-items:
+#   - image : "assets/images/portfolio/item-1.png"
+#     url: "#"
+#     portfolio-type:
+#      - type: "design"
+#      - type: "illustration"
       
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+#   - image : "assets/images/portfolio/item-2.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#   - image : "assets/images/portfolio/item-3.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "illustration"
       
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
+#   - image : "assets/images/portfolio/item-6.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "design"
+#       - type: "branding"
       
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#   - image : "assets/images/portfolio/item-8.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "illustration"
       
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
+#   - image : "assets/images/portfolio/item-5.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "design"
       
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+#   - image : "assets/images/portfolio/item-1.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+#   - image : "assets/images/portfolio/item-3.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "design"
+#       - type: "illustration"
+#       - type: "branding"
       
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#   - image : "assets/images/portfolio/item-7.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "illustration"
 
 
 #-------------------------------
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
+  - name: "Wenhao Su"
     image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    designation : "Programmer"
+    content : "周纪元老铁是真的行"
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "Yifan Pan"
+    image: "assets/images/testimonial/client-2.png"
+    designation: "Electrical Engineer & Physicist"
+    content: "周总牛逼啊！"
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "Yufeng Jin"
+    image: "assets/images/testimonial/client-3.png"
+    designation: "Cognitive Scientist"
+    content: "快点，我切他中路。"
 
 
 #-------------------------------
 # Client Slider Section
 
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+# client-slider-items:
+#   - logo: "assets/images/clients-logo/client-logo-1.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-2.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-3.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-4.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-5.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-1.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-2.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-3.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-4.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-5.png"
+#     url: "#"
 
 #-------------------------------
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: 

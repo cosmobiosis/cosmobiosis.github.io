@@ -1,18 +1,15 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Jiyuan Zhou
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+# signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+I'm a pre-med student who current studies Pharmaceutical Chemistry in UC Davis. 
+As a diligent Senior college student, I maintained a full GPA of 4.0 for all four years in UC Davis and received scholarship for my hardworks.
+I'm interested in Chemistry, Biology, and Neuro-Science.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+FYI, I'm a huge fan of the notorious TV show "Office". Michael! I said Michael!!!
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Well, I don't want to brag about it, but I have a good taste for music. My favorite music band is "Greenday".
