@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
-logo: 
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+title: yoichow
+logo: /favicon.ico
+author: Jiyuan Zhou
+description: 
+email: 
+phone: 
+address: 515 Sycamore Lane, Room 309, Davis, CA, 95616
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -15,7 +15,6 @@ menu:
 - {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
-
 
 #-------------------------------
 # Google Analytics Section
@@ -38,7 +37,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Jiyuan <br> UX designer
 
 social:
 - {icon: "ti-facebook", link: "#"}
